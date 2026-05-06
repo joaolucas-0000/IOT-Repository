@@ -1,6 +1,5 @@
 
-<img width="350" height="190000" alt="iot" src="https://github.com/user-attachments/assets/3566380c-b76b-4361-8a0d-6ac03c1ae5a3" />
-
+<img width="350" height="210" alt="iot" src="https://github.com/user-attachments/assets/3566380c-b76b-4361-8a0d-6ac03c1ae5a3" />
 
 # IoT Projects Repository
 
